@@ -1,0 +1,5 @@
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.MSNSearch\bin\Debug\Cignium.pe.SearchFight.MSNSearch.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.MSNSearch\bin\Debug\Cignium.pe.SearchFight.MSNSearch.pdb
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.MSNSearch\Debug\Cignium.pe.SearchFight.MSNSearch.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.MSNSearch\Debug\Cignium.pe.SearchFight.MSNSearch.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.MSNSearch\Debug\Cignium.pe.SearchFight.MSNSearch.pdb

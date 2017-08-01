@@ -1,0 +1,4 @@
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Engine.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Engine.pdb
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.Engine\Debug\Cignium.pe.SearchFight.Engine.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.Engine\Debug\Cignium.pe.SearchFight.Engine.pdb

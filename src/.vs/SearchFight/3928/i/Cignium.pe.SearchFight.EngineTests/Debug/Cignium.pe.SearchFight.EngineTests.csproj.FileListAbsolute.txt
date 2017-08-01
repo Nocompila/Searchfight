@@ -1,0 +1,8 @@
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.EngineTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.EngineTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.EngineTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.EngineTests\bin\Debug\Cignium.pe.SearchFight.EngineTests.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\b\Cignium.pe.SearchFight.EngineTests\bin\Debug\Cignium.pe.SearchFight.EngineTests.pdb
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.EngineTests\Debug\Cignium.pe.SearchFight.EngineTests.dll
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.EngineTests\Debug\Cignium.pe.SearchFight.EngineTests.pdb
+C:\Dev\Personal\Searchfight\SearchFight\.vs\SearchFight\3928\i\Cignium.pe.SearchFight.EngineTests\Debug\Cignium.pe.SearchFight.EngineTests.csprojResolveAssemblyReference.cache

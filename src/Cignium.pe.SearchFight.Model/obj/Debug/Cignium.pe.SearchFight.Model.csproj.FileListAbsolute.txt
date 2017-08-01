@@ -1,0 +1,5 @@
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Model\bin\Debug\Cignium.pe.SearchFight.Model.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Model\bin\Debug\Cignium.pe.SearchFight.Model.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Model\obj\Debug\Cignium.pe.SearchFight.Model.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Model\obj\Debug\Cignium.pe.SearchFight.Model.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Model\obj\Debug\Cignium.pe.SearchFight.Model.pdb

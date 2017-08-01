@@ -1,0 +1,7 @@
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Printer\bin\Debug\Cignium.pe.SearchFight.Printer.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Printer\bin\Debug\Cignium.pe.SearchFight.Printer.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Printer\bin\Debug\Cignium.pe.SearchFight.Model.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Printer\bin\Debug\Cignium.pe.SearchFight.Model.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Printer\obj\Debug\Cignium.pe.SearchFight.Printer.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Printer\obj\Debug\Cignium.pe.SearchFight.Printer.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Printer\obj\Debug\Cignium.pe.SearchFight.Printer.pdb

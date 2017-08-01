@@ -1,0 +1,15 @@
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\obj\Debug\Cignium.pe.SearchFight.Engine.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Engine.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Engine.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.GoggleSearch.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Model.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.MSNSearch.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Printer.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.SearchTemplate.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.GoggleSearch.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Model.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.MSNSearch.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.Printer.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\bin\Debug\Cignium.pe.SearchFight.SearchTemplate.pdb
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\obj\Debug\Cignium.pe.SearchFight.Engine.dll
+C:\Dev\Personal\Searchfight\SearchFight\Cignium.pe.SearchFight.Engine\obj\Debug\Cignium.pe.SearchFight.Engine.pdb
